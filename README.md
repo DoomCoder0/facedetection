@@ -1,4 +1,3 @@
-Evo kako može izgledati `README.md` fajl za **Face Detection** projekat na GitHubu:
 
 ```markdown
 # Face Detection with OpenCV
